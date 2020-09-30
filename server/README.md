@@ -1,4 +1,4 @@
-This is the backend part needed in order to follow the "Roll your own management application" tutorial published in the LogRocket Blog.
+This is the backend part needed in order to follow the "Rolling your own management application" tutorial published in the LogRocket Blog.
 
 I used Node.js, Docker,MongoDB, graphql-yoga, mongoose and connect-history-api-fallback to create a GraphQL server for the inventory management application that you are building in this tutorial.
 
